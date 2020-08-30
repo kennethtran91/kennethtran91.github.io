@@ -75,6 +75,7 @@ a {
 
 #headshot {
   background-image: url('dp.JPG');
+  transform: rotate(90deg);
 }
 
 .dp {
