@@ -16,7 +16,7 @@ const presentation: Presentation = {
   title: "Hi, I’m Kenneth Tran 👋",
   profile: "/portrait.jpg",
   description:
-    "Hi, i'm a vietnamese *software engineer* with over *3 years* of front experience. Outside of work, you'll often find me on the soccer field, or immersed in the world of video gaming.",
+    "Hi, i'm a vietnamese *software engineer* with over *4 years* experience. Outside of work, you'll often find me on the soccer field, or immersed in the world of video gaming.",
   socials: [
     {
       label: "X",
@@ -29,6 +29,10 @@ const presentation: Presentation = {
     {
       label: "Github",
       link: "https://github.com/kennethtran91",
+    },
+    {
+      label: "Resume",
+      link: "/[Software-Enginner]KennethTran.pdf",
     },
   ],
 };
