@@ -11,7 +11,7 @@ const projects: Project[] = [
     title: "BookMe!",
     techs: ["MEAN Stacks"],
     link: "https://github.com/kennethtran91/appointment-booking",
-    description: "BookMe! streamlines services appointments with ease, providing clients with a straightforward way to schedule their services and receive automated reminders."
+    description: "Web app to schedule appointments using MEAN Stacks"
   },
   {
     title: "Mad Math",
