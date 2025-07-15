@@ -1,10 +1,11 @@
 ---
 author: bobby
-pubDatetime: 2024-07-15T10:17:19Z
+publishedAt: 2024-07-15T10:17:19Z
 title: Tăng sức mạnh cho VSCode
 description: Chấn chỉnh lại thằng copilot bằng những hướng dẫn chi tiết
 tags:
   - copilot
+isPublish: true
 ---
 
 Công ty tôi dạo gần đây đã bỏ ra gần 5 củ khoai mỹ để mua subscription github copilot cho nhân viên mình sử dụng. Hic chỉ tiếc là không thể truy cập vào public code. Coi như tự đóng cổng dạy nhau học.
