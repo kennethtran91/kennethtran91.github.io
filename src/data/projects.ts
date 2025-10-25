@@ -11,7 +11,7 @@ const projects: Project[] = [
     {
     title: "Let Me Cook AI",
     techs: ["Angular, Gemini API"],
-    link: "https://https://kennethtran91.github.io/let-me-cook-ai",
+    link: "https://kennethtran91.github.io/let-me-cook-ai",
     description: "An intelligent web application designed to turn your available ingredients into delicious recipes using AI recommendation.",
     image: "https://i.imgur.com/n1DiiOY.png"
   },
