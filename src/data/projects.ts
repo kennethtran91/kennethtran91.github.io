@@ -8,6 +8,13 @@ export type Project = {
 };
 
 const projects: Project[] = [
+  {
+    title: "MockPilot",
+    techs: ["Angular, Gemini API, TailwindCSS, Firebase, DeepInfra"],
+    link: "https://mockpilot.app",
+    description: "Architecting a Lightweight AI Interview Practice Platform Utilizing Gemini API/DeepInfra for Realistic Mock Interviews.",
+    image: "https://i.imgur.com/zos5XgD.png"
+  },
     {
     title: "Let Me Cook AI",
     techs: ["Angular, Gemini API"],

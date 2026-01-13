@@ -16,7 +16,7 @@ const presentation: Presentation = {
   title: "Hi, I’m Kenneth Tran 👋",
   profile: "/portrait.jpg",
   description:
-    "Xin chào, i'm a vietnamese *software engineer* with over *4 years* experience. Outside of work, you'll often find me on the soccer field, or immersed in the world of video gaming.",
+    "Xin chào, i'm a vietnamese *software engineer* with over *6 years* experience. Outside of work, you'll often find me on the soccer field, or immersed in the world of video gaming.",
   socials: [
     {
       label: "X",
