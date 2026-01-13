@@ -35,9 +35,9 @@ The goal was simple and practical:
 
 No overengineering. No “future unicorn” assumptions.
 
-## How I Built It (AI-Assisted Workflow)
+## How I Built It (Vibe code Workflow)
 
-I didn’t build this entirely by hand. Roughly **40–50% of the work was AI-assisted**, and I’m intentionally transparent about that.
+I didn’t build this entirely by hand. Roughly **40–50% of the work was vibe coded**, and I’m intentionally transparent about that.
 
 ### Idea Research
 
