@@ -2,10 +2,6 @@
   @apply leading-7;
 }
 
-.post code {
-  @apply rounded-sm bg-neutral-800 px-1 py-[2px] text-orange-500;
-}
-
 .post h2 {
   @apply mt-6 text-3xl text-neutral-100;
 }
@@ -23,17 +19,38 @@
 }
 
 .post ul {
-  @apply list-disc;
+  @apply list-disc space-y-2 pl-5;
+}
+
+.post ol {
+  @apply list-decimal space-y-2 pl-5;
 }
 
 .post blockquote {
-  @apply flex flex-row gap-2 before:block before:h-auto before:w-1 before:max-w-[1px] before:bg-red-400 before:content-[''];
+  @apply flex flex-row gap-2 border-l-2 border-red-400 pl-3 text-neutral-200;
 }
 
 .post pre {
-  @apply p-4;
+  @apply overflow-x-auto rounded-md bg-neutral-900 p-4;
 }
 
 .post pre > code {
   @apply bg-transparent;
+}
+
+.post img {
+  @apply h-auto w-full rounded-md bg-neutral-900 object-cover;
+}
+
+.post table {
+  @apply w-full table-auto text-left text-sm text-neutral-200;
+}
+
+.post th,
+.post td {
+  @apply border-b border-neutral-800 px-3 py-2 align-top;
+}
+
+.post thead th {
+  @apply border-b-2 text-neutral-100;
 }
