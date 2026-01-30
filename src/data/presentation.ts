@@ -32,7 +32,7 @@ const presentation: Presentation = {
     },
     {
       label: "Resume",
-      link: "/[Software-Enginner]KennethTran.pdf",
+      link: "/KennethTran-SoftwareEngineer.pdf",
     },
   ],
 };
